@@ -1,7 +1,7 @@
 <h1 align="center">Sup! 👋 I'm zeozcb!</h1>
 <h3 align="center">Skid from Russia</h3>
 
-<p align="left"> <!-- Profile Views Counter --> <img src="https://zeozeo.vercel.app/api/profile-views?username=zeozcb" alt="Profile Views Counter" /> </p>
+<p align="left"> <!-- Profile Views Counter --> <img src="https://zeozeo.vercel.app/api/profile-views?username=zeozcb" alt="Profile Views Counter" />  [currently not working] </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeozcb" alt="zeozcb" /></a> </p>
 
